@@ -1,0 +1,595 @@
+[
+  {
+    "quiz_title":"Which Carina are you, anyway?",
+    "quiz_results":[
+      {
+        "result": {
+          "title": "Dirty Rina",
+          "text": "You dirty, Dirty Rina, you! The personification of most of the practices your middle school home ec and health ed teachers told you to strictly avoid. D.A.R.E. to resist dat ass! Smoke? You do. Drink? uh huhhhh. Exist solely on a diet of homemade rice krispie treats eaten off a plate like hungry a baby bird? Duh! You're known for always finding a way (THE way) of doing the situationally most outlandish (yet completely) endearing thing. You're also very sexually alluring. One would think your seductive forces would be hindered given your proclivity for goofy hats and candy jewelry, but they'd be wrong. While that which puts the *Dirt* in Dirty Rina is easily recognizable, at your core, you are magnetic, spirited and FUN. Hilarity is a serious endeavor for you and you fuel those around you with your sense of it.",
+          "image": "/images/dirty_rina.JPG",
+          "id": 0
+        }
+      },
+      {
+        "result": {
+          "title": "Carina Kate",
+          "text": "Congratulations! You're ambitious and thoughtful Carina Kate. You know what you want and you get it. You down two shots of espresso as soon as you waltz into work and hit the ground running. Heels? No thanks, you've got a corporate ladder to scale. Pickled veggies? Sure, but only if they don't stain the 15 manuscripts you're currently reading. But it's not all work and no play for you sweet angel, Carina Kate. You always make time for your friends because you're loyal AF, funny as shit, and most importantly, very, VERY hot.",
+          "image": "/images/carina_kate.jpg",
+          "id": 1
+        }
+      },
+      {
+        "result": {
+          "title": "Editrix Rina",
+          "text": "Editrix Rina has arrived! Super productive and intelligent, you are all fierceness and golden-hooped earrings. You slay book auctions and agent meetings and have an office all your own. You're not here to make friends, but gosh darn it you can't help yourself! Plebians flock to your loins, hoping to bask in your glow, but you shrug off their affections with a swig of a frozen cocktail and a hilarious self-deprecating joke. Rachel Comey, eat your HEART OUT. Plus, did I mention that you're like... really hot?",
+          "image": "/images/professinal_rina.jpg",
+          "id": 2
+        }
+      },
+      {
+        "result": {
+          "title": "Gemini Rina",
+          "text": "When the good times come a'callin, Gemini Rina comes a'answerin! You are the life of the party — hilarious, social, dynamic, and oh-so-sweet. You're looking for fun, and you're gonna find it, even if it's just you and your best friends laughing the night away in your garden. But the moon has two faces, and our cuspy Gemini baby is also a gullible smoosh, but only because she's so full of love and trust, an admirable quality if ever there were one. Oh, and yes, of course, you're also very hot and people can't stop talking about it!",
+          "image": "/images/carina_10.JPG",
+          "id": 3
+        }
+      },
+      {
+        "result": {
+          "title": "Taurus Rina",
+          "text": "Namaste, Taurus Rina! You are a snuggly creature of the earth, a hedonistic animal hungry for salty foods and the playful physicality of Dan Miller. You understand the world by touch, whether it's by smacking the ass of a friend or cuddling under thousands of blankets. You are the easiest person to hug and often end up spooning someone without them even realizing it. You are a scoopable delight my dear, a dish best served piping HAWT!",
+          "image": "/images/taurus_rina.png",
+          "id": 4
+        }
+      }
+    ],
+    "quiz_questions":[
+      {
+        "question": {
+          "text": "Forks, spoons, chopsticks? No thanks. I'd rather eat ________ with my hands.",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "messy nachos from a garbage can",
+                "image": "/images/nachos.jpeg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "hot honey",
+                "image": "/images/honey_hand.jpg",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "sushi in midtown",
+                "image": "/images/sushi.jpg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "corn OFF the cob",
+                "image": "/images/corn.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "hot noodle soup",
+                "image": "/images/noodles.jpg",
+                "value": 4
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "My ideal workout is",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Pilates a la ClassPass",
+                "image": "/images/pilates2.jpg",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "lifting tiny weights at my desk",
+                "image": "/images/office_weights.jpg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "varsity tennis",
+                "image": "/images/holton_tennis.jpg",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "A bit of cardio and a smoke, thanks",
+                "image": "/images/treadmill_chips.gif",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "Brazilian Booty Lift",
+                "image": "/images/bbl_vid.png",
+                "value": 3
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "You found $10 on the ground! Let's spend it on...",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "That's like... half a handle, right?!",
+                "image": "/images/questions.png",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "an H&M thong.",
+                "image": "/images/questions.png",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "A bucket of pork larb.",
+                "image": "/images/questions.png",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "A 1/4 lb. tub of whitefish salad.",
+                "image": "/images/questions.png",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "A pair of discreet tequila shots.",
+                "image": "/images/questions.png",
+                "value": 2
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Has anyone ever told you that you're a lot like Julia Louis-Dreyfus? which JLD though?",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "as Elaine on Seinfeld",
+                "image": "/images/elaine.png",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "As Julia Louis-Dreyfus on Curb Your Enthusiasm",
+                "image": "/images/jld.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "as Selena Mayer on Veep",
+                "image": "/images/veep-new-season-hbo.jpg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "as Christine on New Adventures Old Christine",
+                "image": "/images/jld-christine-lead.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "as Eva in Enough Said",
+                "image": "/images/eva.jpg",
+                "value": 4
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Your future husband is really hot. Look!",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/james.jpeg",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/james_5.png",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/james_2.jpg",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/james_4.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/james_3.jpg",
+                "value": 3
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "You're working for the weekend and looking foward to:",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Devouring seafood at the beach.",
+                "image": "/images/questions.png",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "Sleeping til 1, waking to half-finished tub of olives.",
+                "image": "/images/questions.png",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "Fucking my man while our dog cowers under the bed.",
+                "image": "/images/questions.png",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "a 3 hour dim-sum meal, ideally with Maya.",
+                "image": "/images/questions.png",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "Kicking back with an edible and rewatching The Comeback.",
+                "image": "/images/questions.png",
+                "value": 4
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Editorial accomplishment you're proudest of",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Middlebury Campus Opinions Section",
+                "image": "/images/midd_campus.png",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "Sparking the adult coloring book craze of 2015",
+                "image": "/images/coloring.png",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "Getting my own office! Fuck books! I have space!",
+                "image": "/images/tess.gif",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "Keeping my friends' grammar on point",
+                "image": "/images/grammar.jpeg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "The Roxy Letters. Coming soon to bookstores near you!",
+                "image": "/images/roxy_letters.jpg",
+                "value": 2
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Roses are red, Violets are blue",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Let's get drunk and go to the zoo!",
+                "image": "/images/zoo.jpeg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "Let's meet for brunch and discuss your 'tude! ",
+                "image": "/images/brunch.jpeg",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "Let's go to Queens and eat some food!",
+                "image": "/images/sripraphai.jpg",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "Let's smoke some weed and crank the tunes!",
+                "image": "/images/weed.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "Let's makes some jokes, both tame and crude!",
+                "image": "/images/jokes.png",
+                "value": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Play:",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Bop it",
+                "image": "/images/bop.png",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "Twist it",
+                "image": "/images/twist.png",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "Pull it",
+                "image": "/images/pull.png",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "Flick it",
+                "image": "/images/flick.png",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "Spin it",
+                "image": "/images/spin.png",
+                "value": 2
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Preferred mode of transportation:",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "IDC as long as it's covered in peanut shells. ",
+                "image": "/images/questions.png",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "Piggy back ride provided by Dan.",
+                "image": "/images/questions.png",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "I only travel by Revel.",
+                "image": "/images/questions.png",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "Lyft on the Company Card, thank you.",
+                "image": "/images/questions.png",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "A perpetually delayed C train. ",
+                "image": "/images/questions.png",
+                "value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "NYC's hottest neighborhood is ____________.",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Bed Stuy",
+                "image": "/images/bed_stuy.jpg",
+                "value": 4
+              }
+            },
+            {
+              "answer": {
+                "text": "Brooklyn Heights",
+                "image": "/images/brooklyn_heights.jpg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "Herald Square",
+                "image": "/images/heraldsquare2010.jpg",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "NYU Housing",
+                "image": "/images/nyu-broome-street.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "Midtown East",
+                "image": "/images/midtown_east.jpg",
+                "value": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Mariska Hargit-hayyyyy",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/marishka1.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/marishka2.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/marishka3.jpg",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/marishka4.jpg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "",
+                "image": "/images/marishka5.jpg",
+                "value": 4
+              }
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "text": "Favorite thing about the real Carina:",
+          "question_answers":[
+            {
+              "answer": {
+                "text": "Her ambition, focus, and talent.",
+                "image": "/images/carina_3.png",
+                "value": 1
+              }
+            },
+            {
+              "answer": {
+                "text": "Her spontaneity, goofiness, and joie de vivre.",
+                "image": "/images/carina_1.jpg",
+                "value": 0
+              }
+            },
+            {
+              "answer": {
+                "text": "Her grounded bad-assery.",
+                "image": "/images/carina_5.jpg",
+                "value": 2
+              }
+            },
+            {
+              "answer": {
+                "text": "... her tits.",
+                "image": "/images/carina_2.jpg",
+                "value": 3
+              }
+            },
+            {
+              "answer": {
+                "text": "Her ability to chill with *literally* anyone.",
+                "image": "/images/carina_4.jpg",
+                "value": 4
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
