@@ -135,35 +135,35 @@
             {
               "answer": {
                 "text": "That's like... half a handle, right?!",
-                "image": "/images/questions.png",
+                "image": "/images/fleischmannsvodka.jpg",
                 "value": 0
               }
             },
             {
               "answer": {
                 "text": "an H&M thong.",
-                "image": "/images/questions.png",
+                "image": "/images/thong.jpeg",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "A bucket of pork larb.",
-                "image": "/images/questions.png",
+                "image": "/images/larb.jpg",
                 "value": 1
               }
             },
             {
               "answer": {
                 "text": "A 1/4 lb. tub of whitefish salad.",
-                "image": "/images/questions.png",
+                "image": "/images/whitefish.jpg",
                 "value": 4
               }
             },
             {
               "answer": {
                 "text": "A pair of discreet tequila shots.",
-                "image": "/images/questions.png",
+                "image": "/images/shots.png",
                 "value": 2
               }
             }
@@ -261,35 +261,35 @@
             {
               "answer": {
                 "text": "Devouring seafood at the beach.",
-                "image": "/images/questions.png",
+                "image": "/images/crab.jpeg",
                 "value": 2
               }
             },
             {
               "answer": {
                 "text": "Sleeping til 1, waking to half-finished tub of olives.",
-                "image": "/images/questions.png",
+                "image": "/images/sleeping_in.jpg",
                 "value": 0
               }
             },
             {
               "answer": {
                 "text": "Fucking my man while our dog cowers under the bed.",
-                "image": "/images/questions.png",
+                "image": "/images/dog.png",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "a 3 hour dim-sum meal, ideally with Maya.",
-                "image": "/images/questions.png",
+                "image": "/images/dimsum.jpg",
                 "value": 1
               }
             },
             {
               "answer": {
                 "text": "Kicking back with an edible and rewatching The Comeback.",
-                "image": "/images/questions.png",
+                "image": "/images/comeback.gif",
                 "value": 4
               }
             }
@@ -429,35 +429,35 @@
             {
               "answer": {
                 "text": "IDC as long as it's covered in peanut shells. ",
-                "image": "/images/questions.png",
+                "image": "/images/messy_car.jpg",
                 "value": 0
               }
             },
             {
               "answer": {
                 "text": "Piggy back ride provided by Dan.",
-                "image": "/images/questions.png",
+                "image": "/images/piggyback.jpg",
                 "value": 4
               }
             },
             {
               "answer": {
                 "text": "I only travel by Revel.",
-                "image": "/images/questions.png",
+                "image": "/images/revel.jpg",
                 "value": 3
               }
             },
             {
               "answer": {
                 "text": "Lyft on the Company Card, thank you.",
-                "image": "/images/questions.png",
+                "image": "/images/cab.jpg",
                 "value": 2
               }
             },
             {
               "answer": {
                 "text": "A perpetually delayed C train. ",
-                "image": "/images/questions.png",
+                "image": "/images/ctrain.jpeg",
                 "value": 1
               }
             }
